@@ -3,7 +3,6 @@
 // carrots.cpp -- food processing program -- print
 // uses and displays a variable
 // Github test
-// comment from Richtech computer
 #include <iostream>
 
 int main()
